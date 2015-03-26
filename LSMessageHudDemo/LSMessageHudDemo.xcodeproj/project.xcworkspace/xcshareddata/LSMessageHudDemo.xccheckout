@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DFBC97F0-98AF-4605-8BDF-2AA0D768BEEF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LSMessageHudDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F83B6E3A6E02DF435E69E3402E13359F338E0F0B</key>
+		<string>https://github.com/tinymind/LSMessageHUD.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LSMessageHudDemo/LSMessageHudDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F83B6E3A6E02DF435E69E3402E13359F338E0F0B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tinymind/LSMessageHUD.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F83B6E3A6E02DF435E69E3402E13359F338E0F0B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F83B6E3A6E02DF435E69E3402E13359F338E0F0B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LSMessageHUD</string>
+		</dict>
+	</array>
+</dict>
+</plist>
